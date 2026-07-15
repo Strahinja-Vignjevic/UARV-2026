@@ -12,9 +12,11 @@
 	<Property Name="varPersistentID:{04EE01E1-A6F7-41FE-BA86-12C01DC26886}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 10/input</Property>
 	<Property Name="varPersistentID:{06C692F3-97CA-4F09-86C3-7379D1AACA0B}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Left scada</Property>
 	<Property Name="varPersistentID:{0C9033D2-70F5-4E84-B4BB-3197CB4B97F6}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input/error in</Property>
+	<Property Name="varPersistentID:{0D72DB2C-29B1-46AC-B92A-F6E7EA65BB24}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 5/error out</Property>
 	<Property Name="varPersistentID:{0DA03913-1BC8-4938-A087-C70A3BFB6D20}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Right button scada</Property>
 	<Property Name="varPersistentID:{0E088E6B-224D-464A-8112-EC23A430C259}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 4/output</Property>
 	<Property Name="varPersistentID:{0E979383-7610-40D3-8615-B6D497C768CD}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO17</Property>
+	<Property Name="varPersistentID:{0EBB66CB-DDFA-42DC-B750-E61214693821}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 12/input</Property>
 	<Property Name="varPersistentID:{0EE45EE4-64FA-4985-A7DD-EF6D15D3A67B}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Right button hil</Property>
 	<Property Name="varPersistentID:{10C2889C-8221-49B4-A24E-D3011EEA2E81}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input/error in</Property>
 	<Property Name="varPersistentID:{11CF829B-2BF9-4C61-BD5B-AB40AC7C5779}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI28</Property>
@@ -25,6 +27,7 @@
 	<Property Name="varPersistentID:{16242CC1-322F-4FDB-86BF-F3ACCB4ADC10}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Off button hil</Property>
 	<Property Name="varPersistentID:{1747B497-6523-4763-AA0E-0B14DF7D9368}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 9/error out</Property>
 	<Property Name="varPersistentID:{1908E3B1-B8A6-464B-8B22-9F202429C6FC}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 5/error out</Property>
+	<Property Name="varPersistentID:{19E5E1DC-09B3-4EFE-B9C3-4920D1CDBEBF}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 11/error out</Property>
 	<Property Name="varPersistentID:{1DE1D2F2-028E-4F7E-A484-FF661A0771D3}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Center hil</Property>
 	<Property Name="varPersistentID:{1E42C183-E2AB-437E-B6AA-653E7A5B213C}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 5/error in</Property>
 	<Property Name="varPersistentID:{1E5EA995-0956-40AA-85E4-BF884ECFB8E1}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 1/output</Property>
@@ -39,35 +42,44 @@
 	<Property Name="varPersistentID:{2D430493-04E3-463B-BD3D-EE4280D14AA4}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Fault hil</Property>
 	<Property Name="varPersistentID:{2DF64F3E-9B3C-4E54-ACC9-6BA2365BED5C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/Y5 Retract cyl. 3</Property>
 	<Property Name="varPersistentID:{2F520E34-19C4-4202-8CB7-5807EDA620F8}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/H2 Cly. retracted</Property>
+	<Property Name="varPersistentID:{309C4AFB-61F2-4690-AFEB-C31DDCFC5D01}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 7/error in</Property>
+	<Property Name="varPersistentID:{30BA9B5E-CBD6-4D90-A7AB-451CB600E9B7}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 8/error in</Property>
 	<Property Name="varPersistentID:{322B9611-EE87-44F7-B324-6DBA7F39125D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/F1 Pressure switch</Property>
 	<Property Name="varPersistentID:{362DAE27-7BF7-4055-9EE0-CB9C0C020014}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/AO3</Property>
 	<Property Name="varPersistentID:{3771B621-6F64-4A03-B5CF-9E7E37B2DD4C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO7</Property>
-	<Property Name="varPersistentID:{38B391F0-32E6-400F-8394-C57F49AD85B4}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 3/error out</Property>
 	<Property Name="varPersistentID:{39E33C18-B5DE-4474-BF89-663F9FE65C17}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 2/error out</Property>
 	<Property Name="varPersistentID:{3A6563BB-5BC0-4C9B-B3E9-144BB1F5AD4F}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 4/error out</Property>
+	<Property Name="varPersistentID:{3A66C486-1A16-4DCC-8038-80374BA71667}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 12/error out</Property>
 	<Property Name="varPersistentID:{3C20F54D-6148-4EAB-B113-AC91C7012CC8}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI24</Property>
 	<Property Name="varPersistentID:{3D12972E-D5D9-43DD-8317-C27C75CF6D41}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 2/error in</Property>
 	<Property Name="varPersistentID:{3D62704F-FD6A-4185-AE7E-718B56AB7CD1}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI30</Property>
 	<Property Name="varPersistentID:{3E10C037-50E9-4EB1-9EF0-5D915C847C48}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO18</Property>
+	<Property Name="varPersistentID:{44191B69-92D2-4552-A7DE-FA37F91FFEFE}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 6/error in</Property>
 	<Property Name="varPersistentID:{4846E7CD-962E-456F-855D-55462F0E687F}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 10/error in</Property>
+	<Property Name="varPersistentID:{489A485B-CA6D-4EFA-8633-C52EF0D7B40A}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 5/input</Property>
 	<Property Name="varPersistentID:{48C17630-B7C4-4F9F-8534-004991B67EE1}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 1/input</Property>
 	<Property Name="varPersistentID:{48FD45E8-14B5-40FF-A267-37CE620A6E12}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 4/error out</Property>
 	<Property Name="varPersistentID:{4987A687-B4E5-4B51-A0B0-EB0A66DD0DE3}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 7/error in</Property>
 	<Property Name="varPersistentID:{49E3D39C-6AD0-4CE8-B310-A7DB532C0903}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 9/input</Property>
 	<Property Name="varPersistentID:{4B501EFA-62BC-4959-904F-7D3F034F1E5C}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 1/error out</Property>
+	<Property Name="varPersistentID:{4B5506AC-8B4B-40E4-A6E5-74BA386F32A8}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 8/error out</Property>
 	<Property Name="varPersistentID:{509ACFC6-6788-4ECD-BF13-71A4EB58A05B}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 2/input</Property>
 	<Property Name="varPersistentID:{50E1AFA8-1A17-4285-867E-00BBF634475F}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 3/error out</Property>
 	<Property Name="varPersistentID:{53DB5098-4EF0-4F6A-B3A3-F219C074CE1D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI20</Property>
 	<Property Name="varPersistentID:{554C3420-348A-48AC-9B7E-1D3C17717E2E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO28</Property>
 	<Property Name="varPersistentID:{561F863F-E475-4342-97A0-98EF4C74539F}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Left button scada</Property>
+	<Property Name="varPersistentID:{5657ECB0-5195-4159-A55D-3CD3CB5C246B}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 6/error out</Property>
 	<Property Name="varPersistentID:{56F87949-011D-4E85-9C1F-D948595EDCA7}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input/output</Property>
 	<Property Name="varPersistentID:{57869ED3-D3CE-419E-820E-C3ED1B3EE4AC}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 7/input</Property>
 	<Property Name="varPersistentID:{583030D9-7F85-4B09-8167-458FC8E45554}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/S2 System OFF</Property>
 	<Property Name="varPersistentID:{5A7657C5-0A4E-4661-BF77-721B342E13A6}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI17</Property>
-	<Property Name="varPersistentID:{5D15C87F-1732-44FF-B87F-59CDA1DF65B5}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 3/input</Property>
+	<Property Name="varPersistentID:{5AA5A764-9020-4319-8466-6C1D9FC5D634}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 11/error in</Property>
 	<Property Name="varPersistentID:{61531D4A-03D0-4C06-916C-B8AB4877DC58}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Left button hil</Property>
 	<Property Name="varPersistentID:{61F1DDBE-2DDD-4ACA-8A83-796CEEB83311}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Y4 Extend cyl.3</Property>
+	<Property Name="varPersistentID:{63B0AF58-6E66-4119-9E4B-E9AD34FFAE34}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 6/input</Property>
 	<Property Name="varPersistentID:{699BAC56-F273-4738-BCA5-8DD6880E1885}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI19</Property>
+	<Property Name="varPersistentID:{6B9A5FDD-BBF5-4E6F-BFF4-367E8FC94EDD}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 7/output</Property>
+	<Property Name="varPersistentID:{6BDFAAD5-59ED-4C16-976A-17353D0792AB}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 13/error in</Property>
 	<Property Name="varPersistentID:{6BE8E04C-39D7-4AE6-9385-1F7BAEBBC2A5}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Emergency off hil</Property>
 	<Property Name="varPersistentID:{6C1F09A5-2275-461F-B173-6A4B9953981C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/B1 Cyl. 1, back</Property>
 	<Property Name="varPersistentID:{6C3D6A11-3847-40FD-859D-A000C2FD67DA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/AO0</Property>
@@ -75,34 +87,48 @@
 	<Property Name="varPersistentID:{6D2599B7-0327-4790-9DE7-02F701AE4ED4}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 2/input</Property>
 	<Property Name="varPersistentID:{6FC22F42-D026-4162-9A38-F0274C14F977}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO24</Property>
 	<Property Name="varPersistentID:{706FEF3E-4F6C-4C5D-BC63-B5EC6B921BD5}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/S5 Extend Cyl.</Property>
+	<Property Name="varPersistentID:{70AC1EC2-DCF6-4AA5-9073-F40C7593B13E}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 11/input</Property>
 	<Property Name="varPersistentID:{7113AF11-3AD4-4DFC-9887-05F451C8C21C}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 1/error in</Property>
+	<Property Name="varPersistentID:{7282952A-D486-4D9D-A6BD-7E531F1C018D}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 10/error out</Property>
 	<Property Name="varPersistentID:{72E028A6-327F-415A-B032-1BBAE472155B}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 6/error out</Property>
 	<Property Name="varPersistentID:{730FBAB1-5B52-4B30-A975-D5378561E5DA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI27</Property>
 	<Property Name="varPersistentID:{7401AB97-0E83-4B25-BAE0-F7592A198B08}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO6</Property>
 	<Property Name="varPersistentID:{7529C9BD-88EC-4C95-95FC-225CB738D9A6}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 3/output</Property>
 	<Property Name="varPersistentID:{754C08BE-97C4-4568-B00D-8027D1742214}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO27</Property>
+	<Property Name="varPersistentID:{75D4A63A-1AE4-42CE-BFEB-45DBAE26DAA4}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 13/error out</Property>
 	<Property Name="varPersistentID:{75D4DCB9-EA0A-4A34-9985-AB6FF4DDB1C9}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/AO1</Property>
 	<Property Name="varPersistentID:{7A975989-5873-4AB4-9F17-2EEDEEB0253E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO16</Property>
+	<Property Name="varPersistentID:{7BC2B998-6743-42A9-9A89-7EECA998A3CF}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 11/input</Property>
 	<Property Name="varPersistentID:{7BDC0553-FE84-48D9-BECE-381925FB2D0E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI16</Property>
 	<Property Name="varPersistentID:{7D4D2711-1597-40CA-8A7C-3C9358993E0D}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Emergency off scada</Property>
+	<Property Name="varPersistentID:{80DCF727-47E9-465D-978F-D5625901B90F}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 12/error in</Property>
+	<Property Name="varPersistentID:{8292E52E-224F-4802-B064-7C5B12BF722A}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 9/input</Property>
 	<Property Name="varPersistentID:{856EA929-2B69-49C8-A018-CB070B1DD887}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 5/output</Property>
 	<Property Name="varPersistentID:{85BE11CE-5156-4261-A5EA-C598592A98ED}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/S4 Cyl. interm. pos.</Property>
 	<Property Name="varPersistentID:{8732B25E-06A1-482C-840A-1DFD43D18D3B}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Y2 Retract cyl.1</Property>
 	<Property Name="varPersistentID:{898D2733-DFF4-422F-A5AE-D7BA1B185972}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 3/error in</Property>
 	<Property Name="varPersistentID:{8A0B8D43-C9D6-42E9-BD86-5B04DD096909}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/On button hil</Property>
+	<Property Name="varPersistentID:{8D33F845-8140-4280-8BC4-F367819FEBDD}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 13/output</Property>
 	<Property Name="varPersistentID:{8E94EFA3-DDD9-4D2B-A040-E4745EB0E46D}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Off button scada</Property>
 	<Property Name="varPersistentID:{8EA86A62-6A35-4AFE-9089-51AB8A92F83B}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/emergency off s5</Property>
 	<Property Name="varPersistentID:{8F1E6582-AF0A-4671-9483-27FA08A18987}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 1/error out</Property>
 	<Property Name="varPersistentID:{8FCD5E31-D072-4483-BFD9-6746C2809E42}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO29</Property>
 	<Property Name="varPersistentID:{9234ED04-BAED-47A5-AFCD-B00E706B8186}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 10/output</Property>
+	<Property Name="varPersistentID:{92D342AC-FB41-4DBE-81D8-2088245E24E2}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 5/error in</Property>
+	<Property Name="varPersistentID:{93A2DF47-0FAF-448B-98F4-ADCAA6606577}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 11/output</Property>
+	<Property Name="varPersistentID:{93E2793C-57E6-45DB-9FF0-9982FA2F9796}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 7/input</Property>
 	<Property Name="varPersistentID:{944ADCA4-B90A-4F76-9E2A-CB915D317747}" Type="Ref">/My Computer/Untitled Library 1.lvlib/B7, Cyl. 3, forward</Property>
+	<Property Name="varPersistentID:{95EFBD6D-B2E2-4316-91E0-BD9E1E608E0E}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 8/input</Property>
 	<Property Name="varPersistentID:{97C6754D-DAFF-46C3-BE17-F4FD522F5969}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/B7 Cyl. 3, forward</Property>
 	<Property Name="varPersistentID:{97CE2479-C8ED-4A3C-A26D-933FB0118B98}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO25</Property>
 	<Property Name="varPersistentID:{980409E5-BFD5-4DF3-9F9B-7516B4B193FA}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Fault scada</Property>
 	<Property Name="varPersistentID:{980BEBBC-88E2-4299-BAB3-A53B1DB63F9D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/H5 Fault</Property>
 	<Property Name="varPersistentID:{9A4EE416-C105-4C39-95EF-5EE52E9083C7}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input/input</Property>
 	<Property Name="varPersistentID:{9A54FD54-FED4-4885-8167-F4BF0CE95E78}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Center button scada</Property>
+	<Property Name="varPersistentID:{9BEBF064-A32C-4984-A51E-1B4169F760EB}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 11/output</Property>
 	<Property Name="varPersistentID:{9DC8FEE0-E3D2-4C63-AA93-D402CC498DFC}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 8/input</Property>
+	<Property Name="varPersistentID:{9F2C6ABF-3E25-4A0B-A6F1-3591B41B8E16}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 11/error out</Property>
+	<Property Name="varPersistentID:{A1DEFB4F-6299-45CA-BA2C-8367ABD7A894}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 13/input</Property>
 	<Property Name="varPersistentID:{A2A556D6-75CC-45E0-B4D1-26051B09718B}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/K1 Compressor ON</Property>
 	<Property Name="varPersistentID:{A3367A7B-C4C6-4C6B-9F86-0E5F150D73B0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI23</Property>
 	<Property Name="varPersistentID:{A7A6003F-1AE0-44D6-8584-3A8E699FE545}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI29</Property>
@@ -115,27 +141,37 @@
 	<Property Name="varPersistentID:{AE1B9967-012D-42F8-8B6C-614504238004}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 4/input</Property>
 	<Property Name="varPersistentID:{AFC69610-3C2E-4C04-9596-E5C093575197}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 8/output</Property>
 	<Property Name="varPersistentID:{B052D258-E70D-4433-8A68-256B77BA614D}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 1/error in</Property>
+	<Property Name="varPersistentID:{B094B222-D83D-4E48-8C65-2D3B8C10F548}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 8/output</Property>
 	<Property Name="varPersistentID:{B144477D-8714-49FE-B90F-89D23B2B94C8}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 7/output</Property>
 	<Property Name="varPersistentID:{B1A44B5E-08D8-480E-93FC-B9439C835E31}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO22</Property>
 	<Property Name="varPersistentID:{B39E5808-2BFF-4A48-A801-3E9F2808573B}" Type="Ref">/My Computer/Untitled Library 1.lvlib/B6, Cyl. 3, back</Property>
 	<Property Name="varPersistentID:{B62D6D1A-5D78-49B2-AF93-7ECC578D6A5A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO30</Property>
 	<Property Name="varPersistentID:{B6D65E67-40AC-4A57-AEC6-16D8940941F6}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Left hil</Property>
 	<Property Name="varPersistentID:{B6D84458-FEC4-4AF6-A34F-BD1A847D7D4C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI31</Property>
+	<Property Name="varPersistentID:{B7DA3F03-F934-4609-A5AC-7B6BA78E8BE6}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 7/error out</Property>
+	<Property Name="varPersistentID:{BB2AD817-9F9A-4FDE-935B-F0C106E61D54}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 10/output</Property>
 	<Property Name="varPersistentID:{BE95FAC0-3EC5-458D-A8EC-56E110B8F4FD}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 9/output</Property>
+	<Property Name="varPersistentID:{C2249719-4BD7-4C2D-AAD5-4629AAB463F8}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 9/error in</Property>
 	<Property Name="varPersistentID:{C2B567FA-2014-485C-BCFE-9C8EBE3CC438}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 1/input</Property>
 	<Property Name="varPersistentID:{C3382A2D-BA59-4ED6-A5A8-C38F5E597DAD}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/Y1 Extended cyl. 1</Property>
+	<Property Name="varPersistentID:{C3CD964F-6C18-4077-A656-390D993C59A8}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 5/output</Property>
+	<Property Name="varPersistentID:{C4851ADB-33A8-48A0-A779-70988F97DE38}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 6/output</Property>
 	<Property Name="varPersistentID:{C5DA3F7B-6C59-4702-8D7F-EC3E17B509F6}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO19</Property>
 	<Property Name="varPersistentID:{C6E4938D-94F5-46C3-AE9C-D758F73507FA}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 8/error in</Property>
 	<Property Name="varPersistentID:{C7E089E4-FC1D-4897-BF75-8CB609C6FEBA}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 6/error in</Property>
 	<Property Name="varPersistentID:{CD015682-3894-4D5E-AA51-58D2A964D196}" Type="Ref">/RT CompactRIO Target/Hydraulic_Drive.lvlib/Right hil</Property>
+	<Property Name="varPersistentID:{CD8348D2-63DE-4BEC-B6F7-EAECAC39611A}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 9/error out</Property>
 	<Property Name="varPersistentID:{CD99D447-CA7F-46FE-AC4E-068ECD249462}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/DI18</Property>
 	<Property Name="varPersistentID:{CE43D533-178F-4B1D-807E-9F86820A81C3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/B3 Cyl. 2, back</Property>
 	<Property Name="varPersistentID:{D0790EE7-928D-4DFD-BB9A-3CBE23B15D71}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input/error out</Property>
-	<Property Name="varPersistentID:{D1121670-D59A-4D8C-B74D-C3D063E0BD71}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 3/error in</Property>
+	<Property Name="varPersistentID:{D0D5ABF3-F8F1-4040-AD1E-1E28D84B531B}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 11/error in</Property>
 	<Property Name="varPersistentID:{D43F9819-FC79-4EE3-BFB4-79EF155D72B1}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/H1 System ON</Property>
 	<Property Name="varPersistentID:{D72754EA-9C7E-4DD1-AC66-B2DBE13FD8F7}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/AO2</Property>
+	<Property Name="varPersistentID:{D7A34CCF-5ECF-4AF3-BF3D-6BD09EA0F86A}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 12/output</Property>
 	<Property Name="varPersistentID:{D82B1251-A1AB-471E-A5AC-C11F4D7D8A09}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Center scada</Property>
+	<Property Name="varPersistentID:{D8FE963C-75E6-4B00-81FC-14567FD787D0}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 9/output</Property>
 	<Property Name="varPersistentID:{DB6FD3A4-8676-4036-B112-488BEAB8F9C4}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 4/input</Property>
+	<Property Name="varPersistentID:{DC0BAEE4-A6E7-4C90-9FE5-29DF68CCBFCB}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 10/error in</Property>
 	<Property Name="varPersistentID:{DE0FF1EF-00A0-4257-AC9D-66A50D077B10}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO14</Property>
 	<Property Name="varPersistentID:{DE8AF4A4-61DB-4407-9C55-078285CCC836}" Type="Ref">/My Computer/Untitled Library 1.lvlib/On button scada</Property>
 	<Property Name="varPersistentID:{DF363189-A38A-490A-BCD5-B053822C26AB}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO15</Property>
@@ -153,10 +189,10 @@
 	<Property Name="varPersistentID:{EDE5E21C-1295-4DF9-8046-A432F4421A85}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 2/output</Property>
 	<Property Name="varPersistentID:{EEAD24FA-505D-4554-A823-5B6BB47142D3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO23</Property>
 	<Property Name="varPersistentID:{F21787A0-8670-4DF8-AC3F-4FD892F41C3C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/Y2 Extended cyl. 2</Property>
+	<Property Name="varPersistentID:{F352BD47-27B4-4644-A8B2-D7D204EAB925}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 10/input</Property>
 	<Property Name="varPersistentID:{F43F3B3B-4F55-4473-9F16-B13FDB4FC2A7}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 7/error out</Property>
 	<Property Name="varPersistentID:{F45EDB81-28FA-49C1-902B-E84B7D7494DC}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/Y3 Retract cyl. 2</Property>
 	<Property Name="varPersistentID:{F4EE24D5-7046-475F-99D3-3484D4A55339}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Rising with Input 1/output</Property>
-	<Property Name="varPersistentID:{F51EB253-C5F8-4351-A00D-46FB30BEB293}" Type="Ref">/RT CompactRIO Target/automat.vi/One Shot Falling With Input 3/output</Property>
 	<Property Name="varPersistentID:{F5C80015-EAB8-4002-B81B-B73E4CA97DE5}" Type="Ref">/My Computer/Untitled Library 1.lvlib/Y1 Extend cyl.1</Property>
 	<Property Name="varPersistentID:{F69DA1F3-794C-47F6-AD95-E43ABEB69E10}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO5</Property>
 	<Property Name="varPersistentID:{F69E5175-EC90-4548-9678-D4C42626F21B}" Type="Ref">/RT CompactRIO Target/Chassis/Mod2/B6 Cyl. 3, center</Property>
@@ -286,12 +322,6 @@ AddOutputFilter chunkFilter
 				<Item Name="input" Type="Variable"/>
 				<Item Name="output" Type="Variable"/>
 			</Item>
-			<Item Name="One Shot Falling With Input 3" Type="IIO Function Block">
-				<Item Name="error in" Type="Variable"/>
-				<Item Name="error out" Type="Variable"/>
-				<Item Name="input" Type="Variable"/>
-				<Item Name="output" Type="Variable"/>
-			</Item>
 			<Item Name="One Shot Falling With Input 4" Type="IIO Function Block">
 				<Item Name="error in" Type="Variable"/>
 				<Item Name="error out" Type="Variable"/>
@@ -334,6 +364,24 @@ AddOutputFilter chunkFilter
 				<Item Name="input" Type="Variable"/>
 				<Item Name="output" Type="Variable"/>
 			</Item>
+			<Item Name="One Shot Falling With Input 11" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Falling With Input 12" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Falling With Input 13" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
 			<Item Name="One Shot Rising with Input" Type="IIO Function Block">
 				<Item Name="error in" Type="Variable"/>
 				<Item Name="error out" Type="Variable"/>
@@ -359,6 +407,48 @@ AddOutputFilter chunkFilter
 				<Item Name="output" Type="Variable"/>
 			</Item>
 			<Item Name="One Shot Rising with Input 4" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 5" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 6" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 7" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 8" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 9" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 10" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 11" Type="IIO Function Block">
 				<Item Name="error in" Type="Variable"/>
 				<Item Name="error out" Type="Variable"/>
 				<Item Name="input" Type="Variable"/>
